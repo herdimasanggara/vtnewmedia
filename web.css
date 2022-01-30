@@ -200,15 +200,15 @@ a:active {
   justify-content: center;
   width: 20%;
   height: 5vh;
-  background: gold;
-  color: black;
-  border: 1px dotted black;
+  background: black;
+  color: gold;
+  border: 1px dotted gold;
   padding: 1em;
 }
 
 .house:hover {
-  background: black;
-  color: gold;
-  border: 1px dotted black;
+  background: gold;
+  color: black;
+  border: 1px dotted gold;
   padding: 1em;
 }
