@@ -105,6 +105,7 @@ a:active {
   background: gainsboro;
   color: black;
   overflow-y: scroll;
+  border: 1px dashed black;
 }
 
 /* .boxfinished2 {
@@ -126,6 +127,7 @@ a:active {
   background: darkgrey;
   color: black;
   overflow-y: scroll;
+  border: 1px dashed black;
 }
 
 /* @media (max-width: 700px) {
