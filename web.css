@@ -96,6 +96,19 @@ a:active {
   border: 1px dashed black;
 }
 
+.boxspring {
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  width: 25%;
+  height: 25vh;
+  background: #e8f48c;
+  color: goldenrod;
+  filter: blur(1px);
+  border: 1px dashed black;
+}
+
 .boxfinished {
   display: flex;
   padding: 0.5rem;
@@ -118,6 +131,7 @@ a:active {
   color: black;
   overflow: none;;
 } */
+
 .boxalmostfinished {
   display: flex;
   padding: 0.5rem;
@@ -130,6 +144,8 @@ a:active {
   border: 1px dashed black;
 }
 
+
+
 /* @media (max-width: 700px) {
   .box {
     width: 50%;
@@ -138,6 +154,7 @@ a:active {
     width: 50%;
   }
 } */
+
 .box>div {
   box-sizing: border-box;
   text-align: center;
